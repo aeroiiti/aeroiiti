@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://SD:<password>@contactkeeper-xsoqm.mongodb.net/aeroiit?retryWrites=true&w=majority",
+  "jwtsecret": "secret"
+}
